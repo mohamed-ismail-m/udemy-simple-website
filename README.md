@@ -28,5 +28,8 @@ This project is a simple replica of the Udemy website, built using HTML and basi
 
 Feel free to fork the repository and submit pull requests with any improvements or features you'd like to add!
 
+Thank you for visiting my udemy clone website!
+
+
 
 
