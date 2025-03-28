@@ -1,4 +1,4 @@
-# udemy-clone-website
+
 # Udemy Clone Website
 
 This project is a simple replica of the Udemy website, built using HTML and basic CSS. The goal was to create a static website that mimics the look and feel of the Udemy platform with a focus on layout, styling, and basic structure. 
